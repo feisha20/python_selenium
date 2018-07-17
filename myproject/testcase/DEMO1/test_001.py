@@ -9,7 +9,6 @@ import helper
 @allure.story("测试一只狗")
 @allure.issue('http://www.bug.com/bug001')
 @allure.testcase("如何测试一只狗")
-@pytest.allure.step("摸一下狗头")
 def test_dog():
     print("一只黄金猎犬")
     pass
