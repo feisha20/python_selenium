@@ -1,0 +1,28 @@
+1531816582639	geckodriver	INFO	geckodriver 0.20.1
+1531816582648	geckodriver	INFO	Listening on 127.0.0.1:63924
+1531816588765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\linjt\\AppData\\Local\\Temp\\rust_mozprofile.emeXvHuFN2fm"
+Unable to read VR Path Registry from C:\Users\linjt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\linjt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\linjt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\linjt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\linjt\AppData\Local\openvr\openvrpaths.vrpath
+1531816590523	Marionette	INFO	Listening on port 63945
+1531816590790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531816787486	geckodriver	INFO	geckodriver 0.20.1
+1531816787495	geckodriver	INFO	Listening on 127.0.0.1:64341
+1531816793572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\linjt\\AppData\\Local\\Temp\\rust_mozprofile.UOJHPzv8hR99"
+Unable to read VR Path Registry from C:\Users\linjt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\linjt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\linjt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\linjt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\linjt\AppData\Local\openvr\openvrpaths.vrpath
+1531816795321	Marionette	INFO	Listening on port 64363
+1531816795595	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5840, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

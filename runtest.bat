@@ -1,0 +1,1 @@
+py.test ./myproject/testcase/baidu/test_search.py --alluredir ./report
