@@ -9,8 +9,8 @@ import helper
 @allure.story("test a dog")
 @allure.issue('http://www.bug.com/bug001')
 @allure.testcase("how to test a dog")
-@allure.environment(host="127.0.0.1", report='Allure report', browser='Chrome')
 def test_dog():
+    allure.environment(host="127.0.0.1", report='Allure report', browser='Chrome')
     print("this is a gold dog")
     pass
 
