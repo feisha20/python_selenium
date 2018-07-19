@@ -1,1 +1,1 @@
-py.test ./myproject/testcase/  --allure_stories="test a dog" --alluredir ./report
+py.test ./myproject/testcase/  --alluredir ./report
