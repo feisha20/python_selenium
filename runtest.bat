@@ -1,1 +1,1 @@
-py.test ./myproject/testcase/  --allure_severities=critical,blocker --alluredir ./report
+py.test ./myproject/testcase/  --allure_stories=测试一只狗 --alluredir ./report
