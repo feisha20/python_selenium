@@ -5,38 +5,38 @@ import helper
 
 
 @allure.severity("minor")
-@allure.feature("冒烟测试")
-@allure.story("测试一只狗")
+@allure.feature("smoke test")
+@allure.story("test a dog")
 @allure.issue('http://www.bug.com/bug001')
-@allure.testcase("如何测试一只狗")
+@allure.testcase("how to test a dog")
 def test_dog():
-    print("一只黄金猎犬")
+    print("this is a gold dog")
     pass
 
 
 @allure.severity("minor")
-@allure.feature("冒烟测试")
-@allure.story("测试一只猫")
+@allure.feature("smoke test")
+@allure.story("test a cat")
 @allure.issue('http://www.bug.com/bug002')
-@allure.testcase("如何测试一只猫")
+@allure.testcase("how to test a cat")
 def test_cat():
     pass
 
 
 @allure.severity("minor")
-@allure.feature("冒烟测试")
-@allure.story("测试一只猴子")
+@allure.feature("smoke test")
+@allure.story("test a monkey")
 @allure.issue('http://www.bug.com/bug003')
-@allure.testcase("如何测试一只猴子")
+@allure.testcase("how to test a monkey")
 def test_monkey():
     pass
 
 
 @allure.severity("minor")
-@allure.feature("冒烟测试")
-@allure.story("测试一条鱼")
+@allure.feature("smoke test")
+@allure.story("test a fish")
 @allure.issue('http://www.bug.com/bug004')
-@allure.testcase("如何测试一条鱼")
+@allure.testcase("how to test a fish")
 def test_fish():
     pass
 

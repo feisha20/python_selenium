@@ -4,26 +4,26 @@ import pytest
 import helper
 
 @allure.severity("minor")
-@allure.feature("冒烟测试")
-@allure.story("测试一辆小车")
+@allure.feature("smoke test")
+@allure.story("test a car")
 @allure.issue('http://www.bug.com/bug004')
-@allure.testcase("如何测试一辆小车")
+@allure.testcase("how to test a car")
 def test_car():
     pass
 
 @allure.severity("critical")
-@allure.feature("冒烟测试")
-@allure.story("测试一辆自行车")
+@allure.feature("smoke test")
+@allure.story("test a bike")
 @allure.issue('http://www.bug.com/bug005')
-@allure.testcase("如何测试一辆自行车")
+@allure.testcase("how to test a car")
 def test_bike():
     pass
 
 @allure.severity("blocker")
-@allure.feature("冒烟测试")
-@allure.story("测试一架飞机")
+@allure.feature("smoke test")
+@allure.story("test a fly")
 @allure.issue('http://www.bug.com/bug006')
-@allure.testcase("如何测试一架飞机")
+@allure.testcase("how to test a car")
 def test_fly():
     pass
 
