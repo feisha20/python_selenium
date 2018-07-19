@@ -1,1 +1,1 @@
-py.test ./myproject/testcase/baidu/test_search.py ./myproject/testcase/DEMO1/test_001.py ./myproject/testcase/DEMO1/test_002.py ./myproject/testcase/DEMO2/test_a_0201.py ./myproject/testcase/DEMO2/test_a_0202.py --alluredir ./report
+py.test ./myproject/testcase/  --allure_severities=critical,blocker --alluredir ./report
