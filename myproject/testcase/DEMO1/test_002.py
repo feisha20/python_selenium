@@ -15,7 +15,7 @@ def test_car():
 @allure.feature("smoke test")
 @allure.story("test a bike")
 @allure.issue('http://www.bug.com/bug005')
-@allure.testcase("how to test a car1")
+@allure.testcase("how to test a car")
 def test_bike():
     pass
 
