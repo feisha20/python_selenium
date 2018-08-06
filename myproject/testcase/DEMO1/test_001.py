@@ -19,7 +19,7 @@ def test_dog():
 @allure.feature("smoke test")
 @allure.story("test a cat")
 @allure.issue('http://www.bug.com/bug002')
-@allure.testcase("how to test a cat")
+@allure.testcase("how to test a cat2")
 def test_cat():
     pass
 
